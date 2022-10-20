@@ -3,7 +3,7 @@ preposition: at
 description: >-
   20th International Colloquium on Theoretical Aspects of Computing, 04-08 December 2023, Lima, Peru
 baseurl: "/website" # the subpath of your site, e.g. /blog
-url: "https://conference-ictac2023.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://https://ictac-2023.vercel.app" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
 
