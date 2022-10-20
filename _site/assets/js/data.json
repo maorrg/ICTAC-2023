@@ -1,0 +1,27 @@
+{
+    "days": [
+        {
+            "name": "Thursday",
+            "hash": "thu",
+            "date": "2022-11-10"
+        },
+        {
+            "name": "Friday",
+            "hash": "fri",
+            "date": "2022-11-11"
+        }
+    ],
+
+    "rooms": {
+    },
+
+    "speakers": {
+        "" : {
+            "name": " ",
+            "href": "/website/speakers/TBD/"
+        }
+    },
+
+    "talks": {
+    }
+}
