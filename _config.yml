@@ -6,7 +6,7 @@ baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://https://ictac-2023.vercel.app" # the base hostname & protocol for your site, e.g. https://example.com
 
 # theme: jekyll-theme-conference
-remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@3.4.1"
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@2.0.0"
 
 # Build settings
 markdown: kramdown
